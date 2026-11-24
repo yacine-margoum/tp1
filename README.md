@@ -106,4 +106,3 @@ Il manque encore systemd, qui sert à démarrer les services. Au démarrage, le 
 ```bash
 GRUB → noyau + initramfs → systemd
 ```
-# tp1
